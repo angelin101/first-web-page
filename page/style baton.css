@@ -1,0 +1,23 @@
+body {
+    background-color: #FFBF00;
+}
+h1 {
+    font-size: 40px;
+    font-family: Comic Sans MS, Courier, monospace;
+    color: #1B1BB3;
+	margin: center;
+	text-align: center;
+}
+h2 {
+	caption-side: top;
+    text-align: center;
+    font-size: 30px;
+    font-family: Comic Sans MS, Courier, monospace;
+    color: black;
+}
+img {
+    max-width: 35%;
+	border-radius: 25px;
+    box-shadow: 0 0 3px #999;
+	margin: 80px;
+}

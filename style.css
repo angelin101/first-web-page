@@ -1,0 +1,63 @@
+body {
+    min-height: 500px;
+    background-color: #2f358f;
+    background-image: url("Image/cat.jpg");
+    background-size: 130%;
+    background-position: 50% 50%;
+}
+h1 {
+    font-size: 40px;
+    font-family: Monaco, Courier, monospace;
+    color: #1B1BB3;
+}
+table {
+    border-collapse: collapse;
+    border: 2px solid black;
+	margin: auto;
+}
+
+td {
+    padding: 5px;
+    padding-right: 30px;
+    border: 1px solid lightgray;
+}
+
+th {
+    padding: 10px;
+    border: 1px solid black;
+}
+caption {
+    caption-side: top;
+    text-align: left;
+	font-size: 40px;
+    font-family: Monaco, Courier, monospace;
+    color: #7474D9;
+}
+img {
+    max-width: 18%;
+	border-radius: 100%;
+    box-shadow: 0 0 3px #999;
+	margin: 45px;
+}
+h2 {
+	caption-side: top;
+    text-align: center;
+    font-size: 30px;
+    font-family: Monaco, Courier, monospace;
+    color: #ED6B9F;
+}
+h3 {
+	caption-side: top;
+    text-align: center;
+    font-size: 20px;
+    font-family: Monaco, Courier, monospace;
+    color: black;
+}
+p{
+	text-indent: 50px;
+	margin: 20px;
+}
+input[type="submit"] {
+    display: block;
+    margin-top: 25px;
+}
